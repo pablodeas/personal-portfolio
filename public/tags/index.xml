@@ -1,10 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on Site do Pablo</title>
-    <link>https://pablodeas.com/tags/</link>
-    <description>Recent content in Tags on Site do Pablo</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://pablodeas.com/tags/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - Pablo Andrade</title>
+        <link>http://pablodeas.com/tags/</link>
+        <description>Tags - Tag - Pablo Andrade</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>pablodeas@gmail.com (Pablo Andrade)</managingEditor>
+            <webMaster>pablodeas@gmail.com (Pablo Andrade)</webMaster><atom:link href="http://pablodeas.com/tags/" rel="self" type="application/rss+xml" /></channel>
 </rss>

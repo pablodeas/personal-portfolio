@@ -1,10 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Site do Pablo</title>
-    <link>https://pablodeas.com/</link>
-    <description>Recent content on Site do Pablo</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://pablodeas.com/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Pablo Andrade</title>
+        <link>http://pablodeas.com/</link>
+        <description>Este é o meu Portfolio</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>pablodeas@gmail.com (Pablo Andrade)</managingEditor>
+            <webMaster>pablodeas@gmail.com (Pablo Andrade)</webMaster><lastBuildDate>Tue, 13 Jun 2023 22:42:50 -0300</lastBuildDate>
+            <atom:link href="http://pablodeas.com/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>O Início</title>
+    <link>http://pablodeas.com/post1/</link>
+    <pubDate>Tue, 13 Jun 2023 22:42:50 -0300</pubDate>
+    <author>Pablo Andrade</author>
+    <guid>http://pablodeas.com/post1/</guid>
+    <description><![CDATA[Oi, tudo bem? Essa é a minha primeira postagem.
+Fique atento ao que há por vir.]]></description>
+</item>
+</channel>
 </rss>
